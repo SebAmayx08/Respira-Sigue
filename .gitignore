@@ -1,0 +1,23 @@
+# Maven
+target/
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+.apt_generated/
+.factorypath
+.springBeans
+.sts4-cache/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs y credenciales locales
+*.log
+.env
+src/main/resources/application-local.properties
