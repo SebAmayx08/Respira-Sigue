@@ -1,9 +1,0 @@
-* text=auto eol=lf
-
-*.java diff=java
-*.css diff=css
-*.html diff=html
-*.md diff=markdown
-
-*.png binary
-*.ico binary
